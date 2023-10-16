@@ -2,7 +2,7 @@
 
 🎓 I am a passionate Computer Science student at Minnesota State University, with an expected graduation in May 2026.
 
-🚀 My academic journey has equipped me with a solid foundation in various domains, including Data Structures, Algorithms Analysis, Artificial Intelligence, Machine Learning, Data Science, Statistics, and Bioinformatics.
+🚀 My personal & academic journey has equipped me with a solid foundation in various domains, including Data Structures, Algorithms Analysis, Artificial Intelligence, Machine Learning, Data Science, Statistics, and Bioinformatics.
 
 🔍 Currently exploring the realms of Natural Language Processing(NLP), Data Visualization, and mainly Machine Learning.
 
