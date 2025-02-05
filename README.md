@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 I am a passionate Computer Science student at Minnesota State University.
+🎓 I am a passionate Computer Science and Statistics double major (BSc) and am pursuing my master's in Data Science at Minnesota State University.
 
 🚀 My personal & academic journey has equipped me with a solid foundation in various domains, including Data Structures, Algorithms Analysis, Artificial Intelligence, Machine Learning, Data Science, Statistics, and Bioinformatics.
 
